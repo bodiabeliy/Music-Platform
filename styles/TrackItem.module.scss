@@ -1,0 +1,14 @@
+.track {
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.artist {
+    max-width: 200px;
+    padding: 15px;
+}
+.artist__name {
+    font-size: 12px;
+    color: gray;
+}
